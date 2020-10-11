@@ -8,4 +8,6 @@
 ## Технологии
 HTML5&CSS3
 
+### Ссылка на проект: https://anton-sarkisyan.github.io/russian-travel/
+
 

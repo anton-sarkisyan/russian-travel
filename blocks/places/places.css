@@ -14,7 +14,7 @@
   .places {
     width: calc(100% - 24px * 2);
     padding-top: 88px;
-  padding-bottom: 88px;
+    padding-bottom: 88px;
   }
 }
 
